@@ -1,0 +1,7 @@
+startingFundMeBalance = 1
+startingDeployerBalance = 0.1
+
+endingFundMeBalance = 0
+endingDeployerBalance = 1.099
+
+gasCost = 0.001
